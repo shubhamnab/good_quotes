@@ -1,0 +1,273 @@
+[
+    {
+        "id":1,
+        "img":"1.jpg",
+        "title":"There is no such thing as an ugly woman. ~Vincent Van Gogh",
+        "head":"Woman"
+    },
+    {
+        "id":2,
+        "img":"2.jpg",
+        "title":"As long as there are women in the world, men will have a greatly exaggerated idea of how many things take care of themselves. ~Robert Brault, rbrault.blogspot.com",
+        "head":"Woman"
+    },
+    {
+        "id":3,
+        "img":"3.jpg",
+        "title":"If a woman has to choose between catching a fly ball and saving an infant's life, she will choose to save the infant's life without even considering if there are men on base. ~Dave Barry",
+        "head":"Woman"
+    },
+    {
+        "id":4,
+        "img":"1.jpg",
+        "title":"Women cannot complain about men anymore until they start getting better taste in them. ~Bill Maher",
+        "head":"Woman"
+    },
+    {
+        "id":5,
+        "img":"2.jpg",
+        "title":"Women are meant to be loved, not to be understood. ~Oscar Wilde, The Sphinx without a Secret, 1891",
+        "head":"Woman"
+    },
+    {
+        "id":6,
+        "img":"3.jpg",
+        "title":"A woman can say more in a sigh than a man can say in a sermon. ~Arnold Haultain",
+        "head":"Woman"
+    },
+    {
+        "id":7,
+        "img":"1.jpg",
+        "title":"Women are always beautiful. ~Ville Valo",
+        "head":"Woman"
+    },
+    {
+        "id":8,
+        "img":"2.jpg",
+        "title":"No man who respects his mother or loves his sister, can speak disparagingly of any woman; however low she may seem to have sunk, she is still a woman. I want every man to remember this. Every woman is, or, at some time, has been a sister or daughter.... ~Victoria Claflin Woodhull Martin, Tried As By Fire; or, The True and the False, Socially.",
+        "head":"Woman"
+    },
+    {
+        "id":9,
+        "img":"3.jpg",
+        "title":"Next to the wound, what women make best is the bandage. ~Jules Barbey d'Aurevilly",
+        "head":"Woman"
+    },
+    {
+        "id":10,
+        "img":"1.jpg",
+        "title":"Women like silent men. They think they're listening. ~Marcel Achard",
+        "head":"Woman"
+    },
+    {
+        "id":11,
+        "img":"2.jpg",
+        "title":"Sure God created man before woman. But then you always make a rough draft before the final masterpiece. ~Author Unknown",
+        "head":"Woman"
+    },
+    {
+        "id":12,
+        "img":"3.jpg",
+        "title":"Some men know that a light touch of the tongue, running from a woman's toes to her ears, lingering in the softest way possible in various places in between, given often enough and sincerely enough, would add immeasurably to world peace. ~Marianne Williamson, A Woman's Worth",
+        "head":"Woman"
+    },
+    {
+        "id":13,
+        "img":"1.jpg",
+        "title":"A male gynecologist is like an auto mechanic who has never owned a car. ~Carrie Snow",
+        "head":"Woman"
+    },
+    {
+        "id":14,
+        "img":"2.jpg",
+        "title":"The average woman would rather have beauty than brains, because the average man can see better than he can think. ~Author Unknown",
+        "head":"Woman"
+    },
+    {
+        "id":15,
+        "img":"3.jpg",
+        "title":"Every girl should use what Mother Nature gave her before Father Time takes it away. ~Laurence J. Peter",
+        "head":"Woman"
+    },
+    {
+        "id":16,
+        "img":"1.jpg",
+        "title":"Whatever women do they must do twice as well as men to be thought half as good. Luckily, this is not difficult. ~Charlotte Whitton",
+        "head":"Woman"
+    },
+    {
+        "id":17,
+        "img":"2.jpg",
+        "title":"The two women exchanged the kind of glance women use when no knife is handy. ~Ellery Queen",
+        "head":"Woman"
+    },
+    {
+        "id":18,
+        "img":"3.jpg",
+        "title":"Can you imagine a world without men? No crime and lots of happy fat women. ~Nicole Hollander",
+        "head":"Woman"
+    },
+    {
+        "id":19,
+        "img":"1.jpg",
+        "title":"Women get the last word in every argument. Anything a man says after that is the beginning of a new argument. ~Author Unknown",
+        "head":"Woman"
+    },
+    {
+        "id":20,
+        "img":"2.jpg",
+        "title":"A pessimist is a man who thinks all women are bad. An optimist is a man who hopes they are. ~Chauncey Mitchell Depew",
+        "head":"Woman"
+    },
+    {
+        "id":21,
+        "img":"3.jpg",
+        "title":"The rarest thing in the world is a woman who is pleased with photographs of herself. ~Elizabeth Metcalf",
+        "head":"Woman"
+    },
+    {
+        "id":22,
+        "img":"1.jpg",
+        "title":"There is a special place in hell for women who do not help other women. ~Madeleine K. Albright",
+        "head":"Woman"
+    },
+    {
+        "id":23,
+        "img":"2.jpg",
+        "title":"A man's face is his autobiography. A woman's face is her work of fiction. ~Oscar Wilde",
+        "head":"Woman"
+    },
+    {
+        "id":24,
+        "img":"3.jpg",
+        "title":"There's something luxurious about having a girl light your cigarette. In fact, I got married once on account of that. ~Harold Robbins",
+        "head":"Woman"
+    },
+    {
+        "id":25,
+        "img":"1.jpg",
+        "title":"When a man talks dirty to a woman, it's sexual harassment. When a woman talks dirty to a man, it's $3.95 a minute. ~Author Unknown",
+        "head":"Woman"
+    },
+    {
+        "id":26,
+        "img":"2.jpg",
+        "title":"Men get laid, but women get screwed. ~Quentin Crisp",
+        "head":"Woman"
+    },
+    {
+        "id":27,
+        "img":"3.jpg",
+        "title":"Whether they give or refuse, it delights women just the same to have been asked. ~Ovid",
+        "head":"Woman"
+    },
+    {
+        "id":28,
+        "img":"1.jpg",
+        "title":"However, I'm not denyin' the women are foolish: God Almighty made 'em to match the men. ~George Eliot, Adam Bede (Mrs. Poyser)",
+        "head":"Woman"
+    },
+    {
+        "id":29,
+        "img":"2.jpg",
+        "title":"Women are like elephants to me. I like to look at them, but I wouldn't want to own one. ~W.C. Fields",
+        "head":"Woman"
+    },
+    {
+        "id":30,
+        "img":"3.jpg",
+        "title":"Women really do rule the world. They just haven't figured it out yet. When they do, and they will, we're all in big big trouble. ~Doctor Leon, drleons.com",
+        "head":"Woman"
+    },
+    {
+        "id":31,
+        "img":"1.jpg",
+        "title":"I expect Woman will be the last thing civilized by Man. ~George Meredith",
+        "head":"Woman"
+    },
+    {
+        "id":32,
+        "img":"2.jpg",
+        "title":"Men who don't like girls with brains don't like girls. ~Mignon McLaughlin, The Second Neurotic's Notebook, 1966",
+        "head":"Woman"
+    },
+    {
+        "id":33,
+        "img":"3.jpg",
+        "title":"Women keep a special corner of their hearts for sins they have never committed. ~Cornelia Otis Skinner",
+        "head":"Woman"
+    },
+    {
+        "id":34,
+        "img":"1.jpg",
+        "title":"Lovely female shapes are terrible complicators of the difficulties and dangers of this earthly life, especially for their owners. ~George du Maurier",
+        "head":"Woman"
+    },
+    {
+        "id":35,
+        "img":"2.jpg",
+        "title":"Every woman is wrong until she cries, and then she is right — instantly. ~Sam Slick (Thomas Chandler Haliburton)",
+        "head":"Woman"
+    },
+    {
+        "id":36,
+        "img":"3.jpg",
+        "title":"The essence of life is the smile of round female bottoms, under the shadow of cosmic boredom. ~Guy de Maupassant",
+        "head":"Woman"
+    },
+    {
+        "id":37,
+        "img":"1.jpg",
+        "title":"I have an idea that the phrase weaker sex was coined by some woman to disarm some man she was preparing to overwhelm. ~Ogden Nash",
+        "head":"Woman"
+    },
+    {
+        "id":38,
+        "img":"2.jpg",
+        "title":"When men reach their sixties and retire, they go to pieces. Women go right on cooking. ~Gail Sheehy",
+        "head":"Woman"
+    },
+    {
+        "id":39,
+        "img":"3.jpg",
+        "title":"The torment that so many young women know, bound hand and foot by love and motherhood, without having forgotten their former dreams. ~Simone de Beauvoir",
+        "head":"Woman"
+    },
+    {
+        "id":40,
+        "img":"1.jpg",
+        "title":"A highbrow is a man who has found something more interesting than women. ~Edgar Wallace",
+        "head":"Woman"
+    },
+    {
+        "id":41,
+        "img":"2.jpg",
+        "title":"It upsets women to be, or not to be, stared at hungrily. ~Mignon McLaughlin, The Neurotic's Notebook, 1960",
+        "head":"Woman"
+    },
+    {
+        "id":42,
+        "img":"3.jpg",
+        "title":"Women dress alike all over the world: they dress to be annoying to other women. ~Elsa Schiaparelli",
+        "head":"Woman"
+    },
+    {
+        "id":43,
+        "img":"1.jpg",
+        "title":"Women are never stronger than when they arm themselves with their weakness. ~Marie de Vichy-Chamrond, marquise du Deffand",
+        "head":"Woman"
+    },
+    {
+        "id":44,
+        "img":"2.jpg",
+        "title":"If President Nixon's secretary, Rosemary Woods, had been Moses' secretary, there would only be eight commandments. ~Art Buchwald, 1974",
+        "head":"Woman"
+    },
+    {
+        "id":45,
+        "img":"3.jpg",
+        "title":"Woman begins by resisting a man's advances and ends by blocking his retreat. ~Oscar Wilde",
+        "head":"Woman"
+    }
+    
+]

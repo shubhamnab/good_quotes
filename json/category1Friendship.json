@@ -1,0 +1,368 @@
+[
+    {
+        "id":1,
+        "img":"1.jpg",
+        "title":"A friend is one of the nicest things you can have, and one of the best things you can be. ~Douglas Pagels",
+        "head":"Friendship"
+    },
+    {
+        "id":2,
+        "img":"2.jpg",
+        "title":"Most of us don’t need a psychiatric therapist as much as a friend to be silly with. ~Robert Brault",
+        "head":"Friendship"
+    },
+    {
+        "id":3,
+        "img":"3.jpg",
+        "title":"Friendship isn’t a big thing — it’s a million little things. ~Author Unknown",
+        "head":"Friendship"
+    },
+    {
+        "id":4,
+        "img":"4.jpg",
+        "title":"Friendship is like a rainbow between two hearts. ~Author unknown",
+        "head":"Friendship"
+    },
+    {
+        "id":5,
+        "img":"5.jpg",
+        "title":"A single rose can be my garden... a single friend, my world. ~Leo Buscaglia",
+        "head":"Friendship"
+    },
+    {
+        "id":6,
+        "img":"6.jpg",
+        "title":"Only your real friends will tell you when your face is dirty. ~Sicilian Proverb",
+        "head":"Friendship"
+    },
+    {
+        "id":7,
+        "img":"7.jpg",
+        "title":"The antidote for fifty enemies is one friend. ~Aristotle",
+        "head":"Friendship"
+    },
+    {
+        "id":8,
+        "img":"8.jpg",
+        "title":"In everyone’s life, at some time, our inner fire goes out. It is then burst into flame by an encounter with another human being. We should all be thankful for those people who rekindle the inner spirit. ~Albert Schweitzer",
+        "head":"Friendship"
+    },
+    {
+        "id":9,
+        "img":"9.jpg",
+        "title":"A loyal friend laughs at your jokes when they’re not so good, and sympathizes with your problems when they’re not so bad. ~Arnold H. Glasgow",
+        "head":"Friendship"
+    },
+    {
+        "id":10,
+        "img":"10.jpg",
+        "title":"The friend is the man who knows all about you, and still likes you. ~Elbert Hubbard, The Notebook, 1927",
+        "head":"Friendship"
+    },
+    {
+        "id":11,
+        "img":"11.jpg",
+        "title":"I don’t need a friend who changes when I change and who nods when I nod; my shadow does that much better. ~Plutarch",
+        "head":"Friendship"
+    },
+    {
+        "id":12,
+        "img":"12.jpg",
+        "title":"The essence of true friendship is to make allowance for another’s little lapses. ~David Storey",
+        "head":"Friendship"
+    },
+    {
+        "id":13,
+        "img":"13.jpg",
+        "title":"Do not keep on with a mockery of friendship after the substance is gone — but part, while you can part friends. Bury the carcass of friendship: it is not worth embalming. ~William Hazlitt",
+        "head":"Friendship"
+    },
+    {
+        "id":14,
+        "img":"14.jpg",
+        "title":"It’s no good trying to keep up old friendships. It’s painful for both sides. The fact is, one grows out of people, and the only thing is to face it. ~Somerset Maugham",
+        "head":"Friendship"
+    },
+    {
+        "id":15,
+        "img":"15.jpg",
+        "title":"Friends are like walls. Sometimes you lean on them, and sometimes it’s good just knowing they are there. ~Author Unknown",
+        "head":"Friendship"
+    },
+    {
+        "id":16,
+        "img":"16.jpg",
+        "title":"In my friend, I find a second self. ~Isabel Norton",
+        "head":"Friendship"
+    },
+    {
+        "id":17,
+        "img":"17.jpg",
+        "title":"A friend is a person with whom I may be sincere. Before him I may think aloud. I am arrived at last in the presence of a man so real and equal, that I may drop even those undermost garments of dissimulation, courtesy, and second thought, which men never put off, and may deal with him with the simplicity and wholeness with which one chemical atom meets another. ~Ralph Waldo Emerson",
+        "head":"Friendship"
+    },
+    {
+        "id":18,
+        "img":"18.jpg",
+        "title":"A good friend is cheaper than therapy. ~Author Unknown",
+        "head":"Friendship"
+    },
+    {
+        "id":19,
+        "img":"19.jpg",
+        "title":"If a friend is in trouble, don’t annoy him by asking if there is anything you can do. Think up something appropriate and do it. ~Edgar Watson Howe",
+        "head":"Friendship"
+    },
+    {
+        "id":20,
+        "img":"20.jpg",
+        "title":"The most I can do for my friend is simply be his friend. ~Henry David Thoreau",
+        "head":"Friendship"
+    },
+    {
+        "id":21,
+        "img":"21.jpg",
+        "title":"A true friend never gets in your way unless you happen to be going down. ~Arnold Glasow",
+        "head":"Friendship"
+    },
+    {
+        "id":22,
+        "img":"22.jpg",
+        "title":"But if the while I think on thee, dear friend,All losses are restored and sorrows end.~William Shakespeare",
+        "head":"Friendship"
+    },
+    {
+        "id":23,
+        "img":"23.jpg",
+        "title":"The most beautiful discovery true friends make is that they can grow separately without growing apart. ~Elisabeth Foley",
+        "head":"Friendship"
+    },
+    {
+        "id":24,
+        "img":"24.jpg",
+        "title":"It is easier to forgive an enemy than to forgive a friend. ~William Blake",
+        "head":"Friendship"
+    },
+    {
+        "id":25,
+        "img":"25.jpg",
+        "title":"A friend is the only person you will let into the house when you are Turning Out Drawers. ~Pam Brown",
+        "head":"Friendship"
+    },
+    {
+        "id":26,
+        "img":"26.jpg",
+        "title":"Silences make the real conversations between friends. Not the saying but the never needing to say is what counts. ~Margaret Lee Runbeck, Answer Without Ceasing",
+        "head":"Friendship"
+    },
+    {
+        "id":27,
+        "img":"27.jpg",
+        "title":"Our most difficult task as a friend is to offer understanding when we don’t understand. ~Robert Brault, rbrault.blogspot.com",
+        "head":"Friendship"
+    },
+    {
+        "id":28,
+        "img":"28.jpg",
+        "title":"The function of a friend is not to have a function. ~Detlef Cordes, detlefcordes.org",
+        "head":"Friendship"
+    },
+    {
+        "id":29,
+        "img":"29.jpg",
+        "title":"As a friend, you first give your understanding, then you try to understand. ~Robert Brault, rbrault.blogspot.com",
+        "head":"Friendship"
+    },
+    {
+        "id":30,
+        "img":"30.jpg",
+        "title":"The friend within the man is that part of him which belongs to you and opens to you a door which never, perhaps, is opened to another. Such a friend is true, and all he says is true; and he loves you even if he hates you in other mansions of his heart. ~Antoine de Saint-Exupéry, The Wisdom of the Sands, translated from French by Stuart Gilbert",
+        "head":"Friendship"
+    },
+    {
+        "id":31,
+        "img":"31.jpg",
+        "title":"One’s friends are that part of the human race with which one can be human. ~George Santayana",
+        "head":"Friendship"
+    },
+    {
+        "id":32,
+        "img":"32.jpg",
+        "title":"A friend knows the song in my heart and sings it to me when my memory fails. ~Donna Roberts",
+        "head":"Friendship"
+    },
+    {
+        "id":33,
+        "img":"33.jpg",
+        "title":"If a man does not make new acquaintances as he advances through life, he will soon find himself alone. A man should keep his friendships in constant repair. ~Samuel Johnson",
+        "head":"Friendship"
+    },
+    {
+        "id":34,
+        "img":"34.jpg",
+        "title":"True friendship comes when silence between two people is comfortable. ~Dave Tyson Gentry",
+        "head":"Friendship"
+    },
+    {
+        "id":35,
+        "img":"35.jpg",
+        "title":"You can always tell a real friend: when you’ve made a fool of yourself he doesn’t feel you’ve done a permanent job. ~Laurence J. Peter",
+        "head":"Friendship"
+    },
+	 {
+        "id":36,
+        "img":"36.jpg",
+        "title":"Friends are those rare people who ask how you are and then wait for the answer. ~Author Unknown",
+        "head":"Friendship"
+    },
+    {
+        "id":37,
+        "img":"37.jpg",
+        "title":"A friend is the one who comes in when the whole world has gone out. ~Grace Pulpit",
+        "head":"Friendship"
+    },
+	 {
+        "id":38,
+        "img":"36.jpg",
+        "title":"One doesn’t know, till one is a bit at odds with the world, how much one’s friends who believe in one rather generously, mean to one. ~D.H. Lawrence",
+        "head":"Friendship"
+    },
+    {
+        "id":39,
+        "img":"37.jpg",
+        "title":"Friendship is unnecessary, like philosophy, like art.... It has no survival value; rather it is one of those things that give value to survival. ~C.S. Lewis",
+        "head":"Friendship"
+    },
+	 {
+        "id":40,
+        "img":"36.jpg",
+        "title":"Constant use will not wear ragged the fabric of friendship. ~Dorothy Parker",
+        "head":"Friendship"
+    },
+    {
+        "id":41,
+        "img":"37.jpg",
+        "title":"Some people go to priests; others to poetry; I to my friends. ~Virginia Woolf",
+        "head":"Friendship"
+    },
+	 {
+        "id":42,
+        "img":"36.jpg",
+        "title":"There are big ships and small ships. But the best ship of all is friendship. ~Author Unknown",
+        "head":"Friendship"
+    },
+    {
+        "id":43,
+        "img":"37.jpg",
+        "title":"The best kind of friend is the one you could sit on a porch with, never saying a word, and walk away feeling like that was the best conversation you’ve had. ~Author Unknown",
+        "head":"Friendship"
+    },
+	{
+        "id":44,
+        "img":"36.jpg",
+        "title":"I like friends who, when you tell them you need a moment alone, know enough not to stray too far. ~Robert Brault, rbrault.blogspot.com",
+        "head":"Friendship"
+    },
+    {
+        "id":44,
+        "img":"37.jpg",
+        "title":"The language of friendship is not words but meanings. ~Henry David Thoreau",
+        "head":"Friendship"
+    },
+	 {
+        "id":45,
+        "img":"36.jpg",
+        "title":"A true friend is one who thinks you are a good egg even if you are half-cracked. ~Author Unknown",
+        "head":"Friendship"
+    },
+    {
+        "id":46,
+        "img":"37.jpg",
+        "title":"Friends are kisses blown to us by angels. ~Author Unknown",
+        "head":"Friendship"
+    },
+	 {
+        "id":47,
+        "img":"36.jpg",
+        "title":"It’s important to our friends to believe that we are unreservedly frank with them, and important to the friendship that we are not. ~Mignon McLaughlin, The Neurotic’s Notebook, 1960",
+        "head":"Friendship"
+    },
+    {
+        "id":48,
+        "img":"37.jpg",
+        "title":"It is the friends you can call up at 4 a.m. that matter. ~Marlene Dietrich",
+        "head":"Friendship"
+    },
+	 {
+        "id":49,
+        "img":"36.jpg",
+        "title":"She is a friend of mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order. It’s good, you know, when you got a woman who is a friend of your mind. ~Toni Morrison, Beloved",
+        "head":"Friendship"
+    },
+    {
+        "id":50,
+        "img":"37.jpg",
+        "title":"Cherish the friend who tells you a harsh truth, wanting ten times more to tell you a loving lie. ~Robert Brault, rbrault.blogspot.com",
+        "head":"Friendship"
+    },
+	{
+        "id":51,
+        "img":"36.jpg",
+        "title":"Friends can be said to fall in like with as profound a thud as romantic partners fall in love. ~Letty Cottin Pogrebin",
+        "head":"Friendship"
+    },
+    {
+        "id":52,
+        "img":"37.jpg",
+        "title":"Nothing but heaven itself is better than a friend who is really a friend. ~Plautus",
+        "head":"Friendship"
+    },
+	 {
+        "id":53,
+        "img":"36.jpg",
+        "title":"A real friend is someone who would feel loss if you jumped on a train, or in front of one. ~Author Unknown",
+        "head":"Friendship"
+    },
+    {
+        "id":54,
+        "img":"37.jpg",
+        "title":"What is a friend? A single soul dwelling in two bodies. ~Aristotle",
+        "head":"Friendship"
+    },
+	 {
+        "id":55,
+        "img":"36.jpg",
+        "title":"Friendship needs no words — it is solitude delivered from the anguish of loneliness. ~Dag Hammarskjold",
+        "head":"Friendship"
+    },
+    {
+        "id":56,
+        "img":"37.jpg",
+        "title":"Since there is nothing so well worth having as friends, never lose a chance to make them. ~Francesco Guicciardini",
+        "head":"Friendship"
+    },
+	 {
+        "id":57,
+        "img":"36.jpg",
+        "title":"Friendship is Love with jewels on, but without either flowers or veil. ~Augustus William Hare and Julius Charles Hare, Guesses at Truth, by Two Brothers, 1827",
+        "head":"Friendship"
+    },
+    {
+        "id":58,
+        "img":"37.jpg",
+        "title":"If I had to sum up Friendship in one word, it would be Comfort. ~Terri Guillemets",
+        "head":"Friendship"
+    },
+	{
+        "id":59,
+        "img":"36.jpg",
+        "title":"I lay it down as a fact that if all men knew what others say of them, there would not be four friends in the world. ~Blaise Pascal",
+        "head":"Friendship"
+    },
+    {
+        "id":60,
+        "img":"37.jpg",
+        "title":"A man’s growth is seen in the successive choirs of his friends. ~Ralph Waldo Emerson",
+        "head":"Friendship"
+    }
+]

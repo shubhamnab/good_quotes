@@ -1,0 +1,302 @@
+[
+    {
+        "id":1,
+        "img":"1.jpg",
+        "title":"Life is about making an impact, not making an income. –Kevin Kruse",
+        "head":"Inspirational"
+    },
+    {
+        "id":2,
+        "img":"2.jpg",
+        "title":"Whatever the mind of man can conceive and believe, it can achieve. –Napoleon Hill",
+        "head":"Inspirational"
+    },
+    {
+        "id":3,
+        "img":"3.jpg",
+        "title":"Strive not to be a success, but rather to be of value. –Albert Einstein",
+        "head":"Inspirational"
+    },
+    {
+        "id":4,
+        "img":"4.jpg",
+        "title":"Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.  –Robert Frost",
+        "head":"Inspirational"
+    },
+    {
+        "id":5,
+        "img":"5.jpg",
+        "title":"I attribute my success to this: I never gave or took any excuse. –Florence Nightingale",
+        "head":"Inspirational"
+    },
+    {
+        "id":6,
+        "img":"6.jpg",
+        "title":"The most difficult thing is the decision to act, the rest is merely tenacity. –Amelia Earhart",
+        "head":"Inspirational"
+    },
+    {
+        "id":7,
+        "img":"7.jpg",
+        "title":"Every strike brings me closer to the next home run. –Babe Ruth",
+        "head":"Inspirational"
+    },
+    {
+        "id":8,
+        "img":"8.jpg",
+        "title":"Definiteness of purpose is the starting point of all achievement. –W. Clement Stone",
+        "head":"Inspirational"
+    },
+    {
+        "id":9,
+        "img":"9.jpg",
+        "title":"Life isn’t about getting and having, it’s about giving and being. –Kevin Kruse",
+        "head":"Inspirational"
+    },
+    {
+        "id":10,
+        "img":"10.jpg",
+        "title":"Life is what happens to you while you’re busy making other plans. –John Lennon",
+        "head":"Inspirational"
+    },
+    {
+        "id":11,
+        "img":"11.jpg",
+        "title":"We become what we think about. –Earl Nightingale",
+        "head":"Inspirational"
+    },
+    {
+        "id":12,
+        "img":"12.jpg",
+        "title":"Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover. –Mark Twain",
+        "head":"Inspirational"
+    },
+    {
+        "id":13,
+        "img":"13.jpg",
+        "title":"Life is 10% what happens to me and 90% of how I react to it. –Charles Swindoll",
+        "head":"Inspirational"
+    },
+    {
+        "id":14,
+        "img":"14.jpg",
+        "title":"The most common way people give up their power is by thinking they don’t have any. –Alice Walker",
+        "head":"Inspirational"
+    },
+    {
+        "id":15,
+        "img":"15.jpg",
+        "title":"The mind is everything. What you think you become.  –Buddha",
+        "head":"Inspirational"
+    },
+    {
+        "id":16,
+        "img":"16.jpg",
+        "title":"The best time to plant a tree was 20 years ago. The second best time is now. –Chinese Proverb",
+        "head":"Inspirational"
+    },
+    {
+        "id":17,
+        "img":"17.jpg",
+        "title":"An unexamined life is not worth living. –Socrates",
+        "head":"Inspirational"
+    },
+    {
+        "id":18,
+        "img":"18.jpg",
+        "title":"Eighty percent of success is showing up. –Woody Allen",
+        "head":"Inspirational"
+    },
+    {
+        "id":19,
+        "img":"19.jpg",
+        "title":"Your time is limited, so don’t waste it living someone else’s life. –Steve Jobs",
+        "head":"Inspirational"
+    },
+    {
+        "id":20,
+        "img":"20.jpg",
+        "title":"Winning isn’t everything, but wanting to win is. –Vince Lombardi",
+        "head":"Inspirational"
+    },
+    {
+        "id":21,
+        "img":"21.jpg",
+        "title":"I am not a product of my circumstances. I am a product of my decisions. –Stephen Covey",
+        "head":"Inspirational"
+    },
+    {
+        "id":22,
+        "img":"22.jpg",
+        "title":"Every child is an artist.  The problem is how to remain an artist once he grows up. –Pablo Picasso",
+        "head":"Inspirational"
+    },
+    {
+        "id":23,
+        "img":"23.jpg",
+        "title":"You can never cross the ocean until you have the courage to lose sight of the shore. –Christopher Columbus",
+        "head":"Inspirational"
+    },
+    {
+        "id":24,
+        "img":"24.jpg",
+        "title":"Either you run the day, or the day runs you. –Jim Rohn",
+        "head":"Inspirational"
+    },
+    {
+        "id":25,
+        "img":"25.jpg",
+        "title":"Whether you think you can or you think you can’t, you’re right. –Henry Ford",
+        "head":"Inspirational"
+    },
+    {
+        "id":26,
+        "img":"26.jpg",
+        "title":"The two most important days in your life are the day you are born and the day you find out why. –Mark Twain",
+        "head":"Inspirational"
+    },
+    {
+        "id":27,
+        "img":"27.jpg",
+        "title":"Whatever you can do, or dream you can, begin it.  Boldness has genius, power and magic in it. –Johann Wolfgang von Goethe",
+        "head":"Inspirational"
+    },
+    {
+        "id":28,
+        "img":"28.jpg",
+        "title":"The best revenge is massive success. –Frank Sinatra",
+        "head":"Inspirational"
+    },
+    {
+        "id":29,
+        "img":"29.jpg",
+        "title":"People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily. –Zig Ziglar",
+        "head":"Inspirational"
+    },
+    {
+        "id":30,
+        "img":"30.jpg",
+        "title":"Life shrinks or expands in proportion to one’s courage. –Anais Nin",
+        "head":"Inspirational"
+    },
+    {
+        "id":31,
+        "img":"31.jpg",
+        "title":"If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced. –Vincent Van Gogh",
+        "head":"Inspirational"
+    },
+    {
+        "id":32,
+        "img":"32.jpg",
+        "title":"There is only one way to avoid criticism: do nothing, say nothing, and be nothing. –Aristotle",
+        "head":"Inspirational"
+    },
+    {
+        "id":33,
+        "img":"33.jpg",
+        "title":"Ask and it will be given to you; search, and you will find; knock and the door will be opened for you. –Jesus",
+        "head":"Inspirational"
+    },
+    {
+        "id":34,
+        "img":"34.jpg",
+        "title":"The only person you are destined to become is the person you decide to be. –Ralph Waldo Emerson",
+        "head":"Inspirational"
+    },
+    {
+        "id":35,
+        "img":"35.jpg",
+        "title":"Go confidently in the direction of your dreams.  Live the life you have imagined. –Henry David Thoreau",
+        "head":"Inspirational"
+    },
+    {
+        "id":36,
+        "img":"6.jpg",
+        "title":"When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left and could say, I used everything you gave me. –Erma Bombeck",
+        "head":"Inspirational"
+    },
+    {
+        "id":37,
+        "img":"7.jpg",
+        "title":"Few things can help an individual more than to place responsibility on him, and to let him know that you trust him.  –Booker T. Washington",
+        "head":"Inspirational"
+    },
+    {
+        "id":38,
+        "img":"8.jpg",
+        "title":"Certain things catch your eye, but pursue only those that capture the heart. – Ancient Indian Proverb",
+        "head":"Inspirational"
+    },
+    {
+        "id":39,
+        "img":"9.jpg",
+        "title":"Believe you can and you’re halfway there. –Theodore Roosevelt",
+        "head":"Inspirational"
+    },
+    {
+        "id":40,
+        "img":"10.jpg",
+        "title":"Everything you’ve ever wanted is on the other side of fear. –George Addair",
+        "head":"Inspirational"
+    },
+    {
+        "id":41,
+        "img":"11.jpg",
+        "title":"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light. –Plato",
+        "head":"Inspirational"
+    },
+    {
+        "id":42,
+        "img":"12.jpg",
+        "title":"Teach thy tongue to say, “I do not know,” and thous shalt progress. –Maimonides",
+        "head":"Inspirational"
+    },
+    {
+        "id":43,
+        "img":"13.jpg",
+        "title":"Start where you are. Use what you have.  Do what you can. –Arthur Ashe",
+        "head":"Inspirational"
+    },
+    {
+        "id":44,
+        "img":"14.jpg",
+        "title":"Fall seven times and stand up eight. –Japanese Proverb",
+        "head":"Inspirational"
+    },
+    {
+        "id":45,
+        "img":"15.jpg",
+        "title":"When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us. –Helen Keller",
+        "head":"Inspirational"
+    },
+    {
+        "id":46,
+        "img":"16.jpg",
+        "title":"Everything has beauty, but not everyone can see. –Confucius",
+        "head":"Inspirational"
+    },
+    {
+        "id":47,
+        "img":"17.jpg",
+        "title":"How wonderful it is that nobody need wait a single moment before starting to improve the world. –Anne Frank",
+        "head":"Inspirational"
+    },
+    {
+        "id":48,
+        "img":"18.jpg",
+        "title":"When I let go of what I am, I become what I might be. –Lao Tzu",
+        "head":"Inspirational"
+    },
+    {
+        "id":49,
+        "img":"19.jpg",
+        "title":"Life is not measured by the number of breaths we take, but by the moments that take our breath away. –Maya Angelou",
+        "head":"Inspirational"
+    },
+    {
+        "id":50,
+        "img":"20.jpg",
+        "title":"Happiness is not something readymade.  It comes from your own actions. –Dalai Lama",
+        "head":"Inspirational"
+    }
+]

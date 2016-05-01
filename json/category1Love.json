@@ -1,0 +1,338 @@
+[
+    {
+        "id":1,
+        "img":"1.jpg",
+        "title":"If there is a day to act on the Love in your soul it is today, it is this moment. ~Mike Dolan",
+        "head":"Love"
+    },
+    {
+        "id":2,
+        "img":"2.jpg",
+        "title":"Love is a springtime plant that perfumes everything with its hope, even the ruins to which it clings. ~Gustave Flaubert",
+        "head":"Love"
+    },
+    {
+        "id":3,
+        "img":"3.jpg",
+        "title":"The hunger for love is much more difficult to remove than the hunger for bread. ~Mother Teresa",
+        "head":"Love"
+    },
+    {
+        "id":4,
+        "img":"4.jpg",
+        "title":"Love can only end in indifference. If it ends in hate, it hasn't ended. ~Robert Brault, rbrault.blogspot.com",
+        "head":"Love"
+    },
+    {
+        "id":5,
+        "img":"5.jpg",
+        "title":"Gravitation is not responsible for people falling in love. ~Albert Einstein",
+        "head":"Love"
+    },
+    {
+        "id":6,
+        "img":"6.jpg",
+        "title":"There is no surprise more magical than the surprise of being loved. It is God's finger on man's shoulder. ~Charles Morgan",
+        "head":"Love"
+    },
+    {
+        "id":7,
+        "img":"7.jpg",
+        "title":"You have to walk carefully in the beginning of love; the running across fields into your lover's arms can only come later when you're sure they won't laugh if you trip. ~Jonathan Carroll",
+        "head":"Love"
+    },
+    {
+        "id":8,
+        "img":"8.jpg",
+        "title":"Ah me! love can not be cured by herbs. ~Ovid",
+        "head":"Love"
+    },
+    {
+        "id":9,
+        "img":"9.jpg",
+        "title":"Love is the only sane and satisfactory answer to the problem of human existence. ~Erich Fromm",
+        "head":"Love"
+    },
+    {
+        "id":10,
+        "img":"10.jpg",
+        "title":"Love has no desire but to fulfill itself. To melt and be like a running brook that sings its melody to the night. To wake at dawn with a winged heart and give thanks for another day of loving. ~Khalil Gibran",
+        "head":"Love"
+    },
+    {
+        "id":11,
+        "img":"11.jpg",
+        "title":"Infatuation is when you think he's as sexy as Robert Redford, as smart as Henry Kissinger, as noble as Ralph Nader, as funny as Woody Allen, and as athletic as Jimmy Conners. Love is when you realize that he's as sexy as Woody Allen, as smart as Jimmy Connors, as funny as Ralph Nader, as athletic as Henry Kissinger and nothing like Robert Redford — but you'll take him anyway. ~Judith Viorst",
+        "head":"Love"
+    },
+    {
+        "id":12,
+        "img":"12.jpg",
+        "title":"Love is only a dirty trick played on us to achieve continuation of the species. ~W. Somerset Maugham, A Writer's Notebook, 1949",
+        "head":"Love"
+    },
+    {
+        "id":13,
+        "img":"13.jpg",
+        "title":"Life has taught us that love does not consist in gazing at each other but in looking outward together in the same direction. ~Antoine de Saint-Exupéry, Wind, Sand and Stars, 1939, translated from French by Lewis Galantière",
+        "head":"Love"
+    },
+    {
+        "id":14,
+        "img":"14.jpg",
+        "title":"When love is not madness, it is not love. ~Pedro Calderon de la Barca",
+        "head":"Love"
+    },
+    {
+        "id":15,
+        "img":"15.jpg",
+        "title":"Let your love be like the misty rains, coming softly, but flooding the river. ~Malagasy Proverb",
+        "head":"Love"
+    },
+    {
+        "id":16,
+        "img":"16.jpg",
+        "title":"Love is much like a wild rose, beautiful and calm, but willing to draw blood in its defense. ~Mark Overby",
+        "head":"Love"
+    },
+    {
+        "id":17,
+        "img":"17.jpg",
+        "title":"Love is a symbol of eternity. It wipes out all sense of time, destroying all memory of a beginning and all fear of an end. ~Author Unknown",
+        "head":"Love"
+    },
+    {
+        "id":18,
+        "img":"18.jpg",
+        "title":"Love — a wildly misunderstood although highly desirable malfunction of the heart which weakens the brain, causes eyes to sparkle, cheeks to glow, blood pressure to rise and the lips to pucker. ~Author Unknown",
+        "head":"Love"
+    },
+    {
+        "id":19,
+        "img":"19.jpg",
+        "title":"Love is a sweet tyranny, because the lover endureth his torments willingly. ~Proverb",
+        "head":"Love"
+    },
+    {
+        "id":20,
+        "img":"20.jpg",
+        "title":"The lover is a monotheist who knows that other people worship different gods but cannot himself imagine that there could be other gods. ~Theodor Reik, Of Love and Lust, 1957",
+        "head":"Love"
+    },
+    {
+        "id":21,
+        "img":"21.jpg",
+        "title":"Love is an act of endless forgiveness, a tender look which becomes a habit. ~Peter Ustinov",
+        "head":"Love"
+    },
+    {
+        "id":22,
+        "img":"22.jpg",
+        "title":"Hate leaves ugly scars, love leaves beautiful ones. ~Mignon McLaughlin",
+        "head":"Love"
+    },
+    {
+        "id":23,
+        "img":"23.jpg",
+        "title":"The art of love... is largely the art of persistence. ~Albert Ellis",
+        "head":"Love"
+    },
+    {
+        "id":24,
+        "img":"24.jpg",
+        "title":"Love one another and you will be happy. It's as simple and as difficult as that. ~Michael Leunig",
+        "head":"Love"
+    },
+    {
+        "id":25,
+        "img":"25.jpg",
+        "title":"Who would give a law to lovers? Love is unto itself a higher law. ~Boethius, The Consolation of Philosophy, A.D. 524",
+        "head":"Love"
+    },
+    {
+        "id":26,
+        "img":"26.jpg",
+        "title":"Who, being loved, is poor? ~Oscar Wilde",
+        "head":"Love"
+    },
+    {
+        "id":27,
+        "img":"27.jpg",
+        "title":"Love must be as much a light, as it is a flame. ~Henry David Thoreau",
+        "head":"Love"
+    },
+    {
+        "id":28,
+        "img":"28.jpg",
+        "title":"To find someone who will love you for no reason, and to shower that person with reasons, that is the ultimate happiness. ~Robert Brault",
+        "head":"Love"
+    },
+    {
+        "id":29,
+        "img":"29.jpg",
+        "title":"Without love, what are we worth? Eighty-nine cents! Eighty-nine cents worth of chemicals walking around lonely. ~Laurence Marks",
+        "head":"Love"
+    },
+    {
+        "id":30,
+        "img":"30.jpg",
+        "title":"A baby is born with a need to be loved — and never outgrows it. ~Frank A. Clark",
+        "head":"Love"
+    },
+    {
+        "id":31,
+        "img":"31.jpg",
+        "title":"Love is the condition in which the happiness of another person is essential to your own. ~Robert Heinlein",
+        "head":"Love"
+    },
+    {
+        "id":32,
+        "img":"32.jpg",
+        "title":"The hours I spend with you I look upon as sort of a perfumed garden, a dim twilight, and a fountain singing to it. You and you alone make me feel that I am alive. Other men it is said have seen angels, but I have seen thee and thou art enough. ~George Moore",
+        "head":"Love"
+    },
+    {
+        "id":33,
+        "img":"33.jpg",
+        "title":"We loved with a love that was more than love. ~Edgar Allan Poe",
+        "head":"Love"
+    },
+    {
+        "id":34,
+        "img":"34.jpg",
+        "title":"If I love you, what business is it of yours? ~Johann Wolfgang von Goethe",
+        "head":"Love"
+    },
+    {
+        "id":35,
+        "img":"35.jpg",
+        "title":"We choose those we like; with those we love, we have no say in the matter. ~Mignon McLaughlin, The Neurotic's Notebook, 1960",
+        "head":"Love"
+    },
+    {
+        "id":36,
+        "img":"36.jpg",
+        "title":"The ultimate test of a relationship is to disagree but to hold hands. ~Quoted by Alexandra Penney in Self",
+        "head":"Love"
+    },
+    {
+        "id":37,
+        "img":"37.jpg",
+        "title":"Love is, above all, the gift of oneself. ~Jean Anouilh",
+        "head":"Love"
+    },
+     {
+        "id":39,
+        "img":"19.jpg",
+        "title":"When a man is in love or in debt, someone else has the advantage. ~Bill Balance",
+        "head":"Love"
+    },
+    {
+        "id":40,
+        "img":"20.jpg",
+        "title":"Anyone can be passionate, but it takes real lovers to be silly. ~Rose Franken",
+        "head":"Love"
+    },
+    {
+        "id":41,
+        "img":"21.jpg",
+        "title":"Love is the magician that pulls man out of his own hat. ~Ben Hecht",
+        "head":"Love"
+    },
+    {
+        "id":42,
+        "img":"22.jpg",
+        "title":"Love is like dew that falls on both nettles and lilies. ~Swedish Proverb",
+        "head":"Love"
+    },
+    {
+        "id":43,
+        "img":"23.jpg",
+        "title":"Love is much nicer to be in than an automobile accident, a tight girdle, a higher tax bracket or a holding pattern over Philadelphia. ~Judith Viorst, Redbook, 1975",
+        "head":"Love"
+    },
+    {
+        "id":44,
+        "img":"24.jpg",
+        "title":"Passion makes the world go round. Love just makes it a safer place. ~Ice T, The Ice Opinion, quoted in Reader's Digest, Quotable Quotes,",
+        "head":"Love"
+    },
+    {
+        "id":45,
+        "img":"25.jpg",
+        "title":"Love is an ocean of emotions entirely surrounded by expenses. ~Lord Dewar",
+        "head":"Love"
+    },
+    {
+        "id":46,
+        "img":"26.jpg",
+        "title":"Only in love are unity and duality not in conflict. ~Rabindranath Tagore",
+        "head":"Love"
+    },
+    {
+        "id":47,
+        "img":"27.jpg",
+        "title":"It is astonishing how little one feels alone when one loves. ~John Bulwer",
+        "head":"Love"
+    },
+    {
+        "id":48,
+        "img":"28.jpg",
+        "title":"You know you have found love when you can't find your way back. ~Robert Brault",
+        "head":"Love"
+    },
+    {
+        "id":49,
+        "img":"29.jpg",
+        "title":"Love is an exploding cigar we willingly smoke. ~Lynda Barry",
+        "head":"Love"
+    },
+    {
+        "id":50,
+        "img":"30.jpg",
+        "title":"Love cures people—both the ones who give it and the ones who receive it. ~Karl Menninger",
+        "head":"Love"
+    },
+    {
+        "id":51,
+        "img":"31.jpg",
+        "title":"If grass can grow through cement, love can find you at every time in your life. ~Cher",
+        "head":"Love"
+    },
+    {
+        "id":52,
+        "img":"32.jpg",
+        "title":"Love is staying up all night with a sick child — or a healthy adult. ~David Frost",
+        "head":"Love"
+    },
+    {
+        "id":53,
+        "img":"33.jpg",
+        "title":"Love doesn't sit there like a stone, it has to be made, like bread; remade all of the time, made new. ~Ursula K. Le Guin",
+        "head":"Love"
+    },
+    {
+        "id":54,
+        "img":"34.jpg",
+        "title":"Love is not singular except in syllable. ~Marvin Taylor",
+        "head":"Love"
+    },
+    {
+        "id":55,
+        "img":"35.jpg",
+        "title":"Love is the word used to label the sexual excitement of the young, the habituation of the middle-aged, and the mutual dependence of the old. ~John Ciardi",
+        "head":"Love"
+    },
+    {
+        "id":56,
+        "img":"36.jpg",
+        "title":"People who are sensible about love are incapable of it. ~Douglas Yates",
+        "head":"Love"
+    },
+    {
+        "id":38,
+        "img":"37.jpg",
+        "title":"Take away love and our earth is a tomb. ~Robert Browning",
+        "head":"Love"
+    }
+]

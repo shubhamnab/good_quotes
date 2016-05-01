@@ -1,0 +1,20 @@
+<ion-view view-title="Good Quotes">
+  <ion-content style="">
+     <div class="cate-lv2" style="">
+         <div class="item item-image" style="background-color:#EF473A;text-align:centre !important" >
+                    <h1 style="text-align:centre !important;font-family:'cursive'">{{header}}</h1>
+  </div>
+            <div class="card " ng-repeat="list in lists | filter:search" style="background-color:#EF473A">
+               
+<!--     <a href="#/app/touch/{{list.id}}"><img class="full-image" ng-src="img/{{list.head}}/{{list.img}}" style="height:100%;color:"></a>-->
+         <a href="#/app/touch1/{{list.id}}">
+            <div class="item item-body">
+                <p>{{list.title}}</p>
+               
+            </div>
+          </a> 
+         </div>
+         
+        </div>
+  </ion-content>
+</ion-view>

@@ -1,0 +1,302 @@
+[
+    {
+        "id":1,
+        "img":"1.jpg",
+        "title":"If you want to achieve greatness stop asking for permission.--Anonymous ",
+        "head":"Motivational"
+    },
+    {
+        "id":2,
+        "img":"2.jpg",
+        "title":"Things work out best for those who make the best of how things work out. --John Wooden",
+        "head":"Motivational"
+    },
+    {
+        "id":3,
+        "img":"3.jpg",
+        "title":"To live a creative life, we must lose our fear of being wrong. --Anonymous",
+        "head":"Motivational"
+    },
+    {
+        "id":4,
+        "img":"4.jpg",
+        "title":"If you are not willing to risk the usual you will have to settle for the ordinary. --Jim Rohn",
+        "head":"Motivational"
+    },
+    {
+        "id":5,
+        "img":"5.jpg",
+        "title":"Trust because you are willing to accept the risk, not because it's safe or certain. --Anonymous",
+        "head":"Motivational"
+    },
+    {
+        "id":6,
+        "img":"6.jpg",
+        "title":"Take up one idea. Make that one idea your life--think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success. --Swami Vivekananda",
+        "head":"Motivational"
+    },
+    {
+        "id":7,
+        "img":"7.jpg",
+        "title":"All our dreams can come true if we have the courage to pursue them. --Walt Disney",
+        "head":"Motivational"
+    },
+    {
+        "id":8,
+        "img":"8.jpg",
+        "title":"Good things come to people who wait, but better things come to those who go out and get them. --Anonymous",
+        "head":"Motivational"
+    },
+    {
+        "id":9,
+        "img":"9.jpg",
+        "title":"If you do what you always did, you will get what you always got. --Anonymous",
+        "head":"Motivational"
+    },
+    {
+        "id":10,
+        "img":"10.jpg",
+        "title":"Success is walking from failure to failure with no loss of enthusiasm. --Winston Churchill",
+        "head":"Motivational"
+    },
+    {
+        "id":11,
+        "img":"11.jpg",
+        "title":"Just when the caterpillar thought the world was ending, he turned into a butterfly. --Proverb",
+        "head":"Motivational"
+    },
+    {
+        "id":12,
+        "img":"12.jpg",
+        "title":"Successful entrepreneurs are givers and not takers of positive energy. --Anonymous",
+        "head":"Motivational"
+    },
+    {
+        "id":13,
+        "img":"13.jpg",
+        "title":"Whenever you see a successful person you only see the public glories, never the private sacrifices to reach them. --Vaibhav Shah",
+        "head":"Motivational"
+    },
+    {
+        "id":14,
+        "img":"14.jpg",
+        "title":"Opportunities don't happen, you create them. --Chris Grosser",
+        "head":"Motivational"
+    },
+    {
+        "id":15,
+        "img":"15.jpg",
+        "title":"Try not to become a person of success, but rather try to become a person of value. --Albert Einstein",
+        "head":"Motivational"
+    },
+    {
+        "id":16,
+        "img":"16.jpg",
+        "title":"Great minds discuss ideas; average minds discuss events; small minds discuss people. --Eleanor Roosevelt",
+        "head":"Motivational"
+    },
+    {
+        "id":17,
+        "img":"17.jpg",
+        "title":"I have not failed. I've just found 10,000 ways that won't work. --Thomas A. Edison",
+        "head":"Motivational"
+    },
+    {
+        "id":18,
+        "img":"18.jpg",
+        "title":"If you don't value your time, neither will others. Stop giving away your time and talents--start charging for it. --Kim Garst",
+        "head":"Motivational"
+    },
+    {
+        "id":19,
+        "img":"19.jpg",
+        "title":"A successful man is one who can lay a firm foundation with the bricks others have thrown at him. --David Brinkley",
+        "head":"Motivational"
+    },
+    {
+        "id":20,
+        "img":"20.jpg",
+        "title":"No one can make you feel inferior without your consent. --Eleanor Roosevelt",
+        "head":"Motivational"
+    },
+    {
+        "id":21,
+        "img":"21.jpg",
+        "title":"The whole secret of a successful life is to find out what is one's destiny to do, and then do it. --Henry Ford",
+        "head":"Motivational"
+    },
+    {
+        "id":22,
+        "img":"22.jpg",
+        "title":"If you're going through hell keep going. --Winston Churchill",
+        "head":"Motivational"
+    },
+    {
+        "id":23,
+        "img":"23.jpg",
+        "title":"The ones who are crazy enough to think they can change the world, are the ones who do. --Anonymous",
+        "head":"Motivational"
+    },
+    {
+        "id":24,
+        "img":"24.jpg",
+        "title":"Don't raise your voice, improve your argument. --Anonymous",
+        "head":"Motivational"
+    },
+    {
+        "id":25,
+        "img":"25.jpg",
+        "title":"What seems to us as bitter trials are often blessings in disguise. --Oscar Wilde",
+        "head":"Motivational"
+    },
+    {
+        "id":26,
+        "img":"26.jpg",
+        "title":"The meaning of life is to find your gift. The purpose of life is to give it away. --Anonymous",
+        "head":"Motivational"
+    },
+    {
+        "id":27,
+        "img":"27.jpg",
+        "title":"The distance between insanity and genius is measured only by success. --Bruce Feirstein",
+        "head":"Motivational"
+    },
+    {
+        "id":28,
+        "img":"28.jpg",
+        "title":"When you stop chasing the wrong things, you give the right things a chance to catch you. --Lolly Daskal",
+        "head":"Motivational"
+    },
+    {
+        "id":29,
+        "img":"29.jpg",
+        "title":"When you stop chasing the wrong things, you give the right things a chance to catch you. --Lolly Daskal",
+        "head":"Motivational"
+    },
+    {
+        "id":30,
+        "img":"30.jpg",
+        "title":"I believe that the only courage anybody ever needs is the courage to follow your own dreams. --Oprah Winfrey",
+        "head":"Motivational"
+    },
+    {
+        "id":31,
+        "img":"31.jpg",
+        "title":"No masterpiece was ever created by a lazy artist. --Anonymous",
+        "head":"Motivational"
+    },
+    {
+        "id":32,
+        "img":"32.jpg",
+        "title":"Happiness is a butterfly, which when pursued, is always beyond your grasp, but which, if you will sit down quietly, may alight upon you. --Nathaniel Hawthorne",
+        "head":"Motivational"
+    },
+     {
+        "id":33,
+        "img":"3.jpg",
+        "title":"If you can't explain it simply, you don't understand it well enough. --Albert Einstein",
+        "head":"Motivational"
+    },
+    {
+        "id":34,
+        "img":"4.jpg",
+        "title":"Blessed are those who can give without remembering and take without forgetting. --Anonymous",
+        "head":"Motivational"
+    },
+    {
+        "id":35,
+        "img":"5.jpg",
+        "title":"Do one thing every day that scares you. --Anonymous",
+        "head":"Motivational"
+    },
+    {
+        "id":36,
+        "img":"6.jpg",
+        "title":"What's the point of being alive if you don't at least try to do something remarkable. --Anonymous",
+        "head":"Motivational"
+    },
+    {
+        "id":37,
+        "img":"7.jpg",
+        "title":"Life is not about finding yourself. Life is about creating yourself. --Lolly Daskal",
+        "head":"Motivational"
+    },
+    {
+        "id":38,
+        "img":"8.jpg",
+        "title":"Nothing in the world is more common than unsuccessful people with talent. --Anonymous",
+        "head":"Motivational"
+    },
+    {
+        "id":39,
+        "img":"9.jpg",
+        "title":"Knowledge is being aware of what you can do. Wisdom is knowing when not to do it. --Anonymous",
+        "head":"Motivational"
+    },
+    {
+        "id":40,
+        "img":"10.jpg",
+        "title":"Your problem isn't the problem. Your reaction is the problem. --Anonymous",
+        "head":"Motivational"
+    },
+    {
+        "id":41,
+        "img":"11.jpg",
+        "title":"You can do anything, but not everything. --Anonymous",
+        "head":"Motivational"
+    },
+    {
+        "id":42,
+        "img":"12.jpg",
+        "title":"Innovation distinguishes between a leader and a follower. --Steve Jobs",
+        "head":"Motivational"
+    },
+    {
+        "id":43,
+        "img":"13.jpg",
+        "title":"There are two types of people who will tell you that you cannot make a difference in this world: those who are afraid to try and those who are afraid you will succeed. --Ray Goforth",
+        "head":"Motivational"
+    },
+    {
+        "id":44,
+        "img":"14.jpg",
+        "title":"Thinking should become your capital asset, no matter whatever ups and downs you come across in your life. --A.P.J. Abdul Kalam",
+        "head":"Motivational"
+    },
+    {
+        "id":45,
+        "img":"15.jpg",
+        "title":"I find that the harder I work, the more luck I seem to have. --Thomas Jefferson",
+        "head":"Motivational"
+    },
+    {
+        "id":46,
+        "img":"16.jpg",
+        "title":"The starting point of all achievement is desire. --Napoleon Hill",
+        "head":"Motivational"
+    },
+    {
+        "id":47,
+        "img":"17.jpg",
+        "title":"Success is the sum of small efforts, repeated day-in and day-out. --Robert Collier",
+        "head":"Motivational"
+    },
+    {
+        "id":48,
+        "img":"18.jpg",
+        "title":"If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work. --Thomas J. Watson",
+        "head":"Motivational"
+    },
+    {
+        "id":49,
+        "img":"19.jpg",
+        "title":"All progress takes place outside the comfort zone. --Michael John Bobak",
+        "head":"Motivational"
+    },
+    {
+        "id":50,
+        "img":"20.jpg",
+        "title":"You may only succeed if you desire succeeding; you may only fail if you do not mind failing. --Philippos",
+        "head":"Motivational"
+    }
+]

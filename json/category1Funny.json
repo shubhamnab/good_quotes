@@ -1,0 +1,206 @@
+[
+    {
+        "id":1,
+        "img":"1.jpg",
+        "title":"I’m not sarcastic, I am just intelligent beyond your understanding.",
+        "head":"Funny"
+    },
+    {
+        "id":2,
+        "img":"2.jpg",
+        "title":" Love is like fart. If you force it, It’s probably shit.",
+        "head":"Funny"
+    },
+    {
+        "id":3,
+        "img":"3.jpg",
+        "title":" In order for you to insult me, I would first have to value your opinion.",
+        "head":"Funny"
+    },
+    {
+        "id":4,
+        "img":"4.jpg",
+        "title":" A relationship is made for two, but some bitches are bad in math.",
+        "head":"Funny"
+    },
+    {
+        "id":5,
+        "img":"5.jpg",
+        "title":" Mirrors can’t talk, lucky for you they can’t laugh either.",
+        "head":"Funny"
+    },
+    {
+        "id":6,
+        "img":"6.jpg",
+        "title":" Zombies are looking for brain, don’t worry you’re safe.",
+        "head":"Funny"
+    },
+    {
+        "id":7,
+        "img":"7.jpg",
+        "title":" May god bless you, sick and shameful life.",
+        "head":"Funny"
+    },
+    {
+        "id":8,
+        "img":"8.jpg",
+        "title":" Some people are beautifully wrapped boxes of shit.",
+        "head":"Funny"
+    },
+    {
+        "id":9,
+        "img":"9.jpg",
+        "title":" My ex had one very annoying habit – BREATHING",
+        "head":"Funny"
+    },
+    {
+        "id":10,
+        "img":"10.jpg",
+        "title":" Dear men, life without women would literally a pain in ass.",
+        "head":"Funny"
+    },
+    {
+        "id":11,
+        "img":"11.jpg",
+        "title":" People have become very naughty on whatsapp.. Even married women have put their status as AVAILABLE.",
+        "head":"Funny"
+    },
+    {
+        "id":12,
+        "img":"12.jpg",
+        "title":" I am not lazy! I am just at my energy saving mode.",
+        "head":"Funny"
+    },
+    {
+        "id":13,
+        "img":"13.jpg",
+        "title":" I will marry to a girl who look pretty in her voter id card.",
+        "head":"Funny"
+    },
+    {
+        "id":14,
+        "img":"14.jpg",
+        "title":"When your girlfriend picks a restaurant that is very costly, you just say Oh yeah, that's where the really cute girl works.",
+        "head":"Funny"
+    },
+    {
+        "id":15,
+        "img":"5.jpg",
+        "title":"A fine is a tax for doing wrong. A tax is a fine for doing well.",
+        "head":"Funny"
+    },
+    {
+        "id":16,
+        "img":"6.jpg",
+        "title":"Problem with this generation is we first search for a Lover & then fall in Love.",
+        "head":"Funny"
+    },
+    {
+        "id":17,
+        "img":"7.jpg",
+        "title":"Hello madam, do you want Credit Card? Girl: No thanks, I have a Boyfriend.",
+        "head":"Funny"
+    },
+    {
+        "id":18,
+        "img":"8.jpg",
+        "title":" Graduation - The process changing one’s status from Student to Unemployed.",
+        "head":"Funny"
+    },
+    {
+        "id":19,
+        "img":"9.jpg",
+        "title":"I just need a good Wifi and Wife.",
+        "head":"Funny"
+    },
+    {
+        "id":20,
+        "img":"20.jpg",
+        "title":"A Good Date ends with Dinner. An Awesome Date ends with Breakfast",
+        "head":"Funny"
+    },
+    {
+        "id":21,
+        "img":"11.jpg",
+        "title":"Sometimes if your best friend is in love with someone, start finding love. Or a new best friend.",
+        "head":"Funny"
+    },
+    {
+        "id":22,
+        "img":"12.jpg",
+        "title":"I want to kill the hottest person alive… But suicide is a crime!",
+        "head":"Funny"
+    },
+    {
+        "id":23,
+        "img":"13.jpg",
+        "title":"An apple a day keeps the doctor away, But if the doctor is cute forget the fruit.",
+        "head":"Funny"
+    },
+    {
+        "id":24,
+        "img":"14.jpg",
+        "title":"Life is like a hot bath. It feels good while you’re in it, but the longer you stay in, the more wrinkled you get.",
+        "head":"Funny"
+    },
+    {
+        "id":25,
+        "img":"5.jpg",
+        "title":"Always borrow money from a pessimist. He won’t expect it back.",
+        "head":"Funny"
+    },
+    {
+        "id":26,
+        "img":"6.jpg",
+        "title":"The scientific theory I like best is that the rings of Saturn are composed entirely of lost airline luggage.",
+        "head":"Funny"
+    },
+    {
+        "id":27,
+        "img":"7.jpg",
+        "title":"Friendship is like peeing on yourself: everyone can see it, but only you get the warm feeling that it brings.",
+        "head":"Funny"
+    },
+    {
+        "id":28,
+        "img":"8.jpg",
+        "title":"A successful man is one who makes more money than his wife can spend. A successful woman is one who can find such a man.",
+        "head":"Funny"
+    },
+    {
+        "id":29,
+        "img":"9.jpg",
+        "title":"Dogs have masters. Cats have staff.",
+        "head":"Funny"
+    },
+    {
+        "id":30,
+        "img":"10.jpg",
+        "title":"By all means, marry. If you get a good wife, you’ll become happy; if you get a bad one, you’ll become a philosopher.",
+        "head":"Funny"
+    },
+    {
+        "id":31,
+        "img":"11.jpg",
+        "title":"I asked God for a bike, but I know God doesn’t work that way. So I stole a bike and asked for forgiveness.",
+        "head":"Funny"
+    },
+    {
+        "id":32,
+        "img":"12.jpg",
+        "title":"The best way to lie is to tell the truth . . . carefully edited truth.",
+        "head":"Funny"
+    },
+    {
+        "id":33,
+        "img":"13.jpg",
+        "title":"Do not argue with an idiot. He will drag you down to his level and beat you with experience.",
+        "head":"Funny"
+    },
+    {
+        "id":34,
+        "img":"14.jpg",
+        "title":"The only mystery in life is why the kamikaze pilots wore helmets.",
+        "head":"Funny"
+    }
+]
